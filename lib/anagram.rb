@@ -7,7 +7,7 @@ class Anagram
 
   def match(word_array)
     word_array.find_all do |word|
-      
+      is_anagram?(word)
     end
   end
 
