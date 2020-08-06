@@ -11,7 +11,7 @@ class Anagram
     end
   end
 
-def is_anagram?(word)
-end  
+  def is_anagram?(word)
+  end
 
 end
