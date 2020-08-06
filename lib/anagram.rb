@@ -1,5 +1,8 @@
 # Your code goes here!
 class Anagram
-end
 
-  
+  def initialize(word)
+  end  
+
+
+end
