@@ -7,8 +7,8 @@ class Anagram
 
   def match(word_array)
     word_array.find_all do |word|
-      word == @word
-    end  
+      
+    end
   end
 
 end
